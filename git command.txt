@@ -6,4 +6,6 @@
  git push orgigin main
  git remote add origin https://github.com/Purva9199/Github-project.git...
  histoy
+ git remote -v 
+ git restore
  
